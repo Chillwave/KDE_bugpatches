@@ -12,11 +12,6 @@ This script provides quick fixes for some common issues faced by KDE Plasma user
 2. Navigate to the directory containing the script.
 3. Make the script executable with the command:
 4. Run the script
-5. 
-chmod +x kde_bugpatches.sh
-Run the script:
-./kde_bugpatches.sh
-Choose the desired option from the menu by entering the corresponding number. The selected action will then be performed.
 
 ## Contribute
 
